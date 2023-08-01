@@ -1,0 +1,19 @@
+{
+  "name": "questions-and-answers",
+  "version": "1.0.0",
+  "description": "project one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "htmx.org": "^1.9.4",
+    "mysql2": "^3.5.2",
+    "sequelize": "^6.32.1"
+  }
+}
